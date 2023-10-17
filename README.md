@@ -16,7 +16,7 @@ edit .env. example:
 ```
 
 ```bash
-$ composer intall
+$ composer install
 $ php artisan migrate:fresh --seed
 ```
 
